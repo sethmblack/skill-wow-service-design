@@ -3,8 +3,8 @@ name: wow-service-design
 description: Transform customer service from cost center to brand-building engine through empowerment, connection, and WOW moments, following Tony Hsieh's Zappos methodology.
 license: MIT
 metadata:
+  version: 1.0.5339
   author: sethmblack
-  version: 1.0.5338
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
